@@ -13,25 +13,8 @@ export default function HomeScreen() {
   const { loading, error, products } = productList;
 
   useEffect(() => {
-
     dispatch(listProducts());
   }, [dispatch]);
-=======
-    const fecthData = async () => {
-      try {
-        setLoading(true);
-        const { data } = await axios.get('/api/products');
-        console.log(data)
-        setLoading(false);
-        setProducts(data);
-      } catch (err) {
-        setError(err.message);
-        setLoading(false);
-      }
-    };
-    fecthData();
-  }, []);
-
   return (
     <div>
      
