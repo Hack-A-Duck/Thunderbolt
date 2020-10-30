@@ -18,7 +18,10 @@
   },
   "homepage": "https://github.com/Akashsingh310/All-In-ONE#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "bcrypt": "^5.0.0",
+    "express": "^4.17.1",
+    "express-async-handler": "^1.1.4",
+    "mongoose": "^5.10.11"
   },
   "devDependencies": {
     "eslint": "^7.12.1",

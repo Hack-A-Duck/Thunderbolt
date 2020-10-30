@@ -1,7 +1,23 @@
+import bcrypt from 'bcrypt';
+
 const data = {
+  users: [
+    {
+      name: 'Akash',
+      email: 'admin@example.com',
+      password: bcrypt.hashSync('1234', 8),
+      isAdmin: true,
+    },
+    {
+      name: 'Shivam',
+      email: 'user@example.com',
+      password: bcrypt.hashSync('1234', 8),
+      isAdmin: false,
+    },
+  ],
     products: [
       {
-        _id: '1',
+        
         name: 'Tata Sampann Unpolished Toor Dal/Arhar Dal, 1kg',
         category: 'groceries',
         image: '/images/1.webp',
@@ -13,7 +29,7 @@ const data = {
         description: 'high quality product',
       },
       {
-        _id: '2',
+        
         name: 'Fortune Rice Bran Health Oil, 5L',
         category: 'groceries',
         image: '/images/2.webp',
@@ -25,7 +41,7 @@ const data = {
         description: 'high quality product',
       },
       {
-        _id: '3',
+        
         name: 'Nutraj California Almonds 1Kg',
         category: 'groceries',
         image: '/images/3.webp',
@@ -37,7 +53,7 @@ const data = {
         description: 'high quality product',
       },
       {
-        _id: '4',
+        
         name: 'Saffola Gold, Pro Healthy Lifestyle Edible Oil, Jar, 5 L',
         category: 'groceries',
         image: '/images/4.webp',
@@ -49,7 +65,7 @@ const data = {
         description: 'high quality product',
       },
       {
-        _id: '5',
+        
         name: 'Fortune Rozana Basmati Rice, 1kg',
         category: 'groceries',
         image: '/images/5.webp',
@@ -61,7 +77,7 @@ const data = {
         description: 'high quality product',
       },
       {
-        _id: '6',
+        
         name: 'Fruitri Kashmiri Walnut Without Shell, Akhrot Giri, 250g',
         category: 'groceries',
         image: '/images/6.webp',
