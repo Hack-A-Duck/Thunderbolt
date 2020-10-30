@@ -6,6 +6,12 @@ delivery partners can deliver the same to the mentioned locations.
 
 <h3>Run Locally</h3>
 
+<strong>For Run in Backend</strong>
+
+`npm install`
+
+`npm start`
+
 <strong>For Run in Frontend</strong>
 
 `open new terminal`
@@ -16,4 +22,4 @@ delivery partners can deliver the same to the mentioned locations.
 
 `npm start`
 
-*Frontend will Run at `http://localhost:3000`* 
+*Backend will Run at `http://localhost:5000`   Frontend will Run at `http://localhost:3000`* 

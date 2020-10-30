@@ -1,0 +1,26 @@
+{
+  "name": "all-in-one",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Theme 1: You plan to start an essentials delivery system. Develop an\r App or a Website where people can order the listed essential goods &\r delivery partners can deliver the same to the mentioned locations.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --watch backend --exec node --experimental-modules backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akashsingh310/All-In-ONE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akashsingh310/All-In-ONE/issues"
+  },
+  "homepage": "https://github.com/Akashsingh310/All-In-ONE#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
