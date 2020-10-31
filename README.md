@@ -34,9 +34,25 @@ delivery partners can deliver the same to the mentioned locations.
 
 
 <strong>For Database</strong>
+
 `install MongoDB compass and connect it `
 
 *Note: - then only it show product* 
+
+for input data in database 
+
+first write `npm start` in new terminal
+
+then go to `http://localhost:5000`
+
+
+ then write
+  
+
+ `http://localhost:5000/api/products/seed`
+ 
+
+` http://localhost:5000/api/users/seed`
 
 
 
