@@ -4,7 +4,7 @@ import { useDispatch, useSelector } from 'react-redux';
 import { Link } from 'react-router-dom';
 import { addToCart, removeFromCart } from '../actions/cartActions';
 import MessageBox from '../components/MessageBox';
-import './css-files/cart.css';
+// import './css-files/cart.css';
 
 export default function CartScreen(props) {
   const productId = props.match.params.id;
@@ -30,7 +30,7 @@ export default function CartScreen(props) {
   return (
     
     <div classNameName="row top">
-      <div className="basket">
+      {/* <div className="basket">
       <div className="basket-title">
         Cart Items
       </div>
@@ -111,10 +111,10 @@ export default function CartScreen(props) {
           <button className="checkout-cta">Go to Secure Checkout</button>
         </div>
       </div>
-    </aside>
+    </aside> */}
 
 
-      {/* <div classNameName="col-2">
+      <div classNameName="col-2">
         <h1>Shopping Cart</h1>
         {cartItems.length === 0 ? (
           <MessageBox>
@@ -187,7 +187,7 @@ export default function CartScreen(props) {
             </li>
           </ul>
         </div>
-      </div> */}
+      </div>
     </div>
   );
   
