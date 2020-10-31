@@ -27,7 +27,9 @@ delivery partners can deliver the same to the mentioned locations.
 <strong>For Database</strong>
 `install MongoDB compass and connect it `
 run mongod on command prompt and then run following to sites in your browser to load data to database
+</br>
 ->http://localhost:5000/api/users/seed
+</br>
 ->http://localhost:5000/api/products/seed
 
 _Note: - then only it show product_
