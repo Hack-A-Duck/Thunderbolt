@@ -33,7 +33,13 @@ delivery partners can deliver the same to the mentioned locations.
 `npm start`
 
 
+<strong>For Database</strong>
+`install MongoDB compass and connect it `
+
+*Note: - then only it show product* 
 
 
-Backend will Run at `http://localhost:5000` Frontend will Run at `http://localhost:3000`\_
+
+
+Backend will Run at `http://localhost:5000` Frontend will Run at `http://localhost:3000`
 
