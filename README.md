@@ -1,9 +1,25 @@
 # Hack-A-Duck
 
 <br>
-[![GitHub stars](https://img.shields.io/github/stars/shivam7374/All-In-ONE.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/shivam7374/All-In-ONE)
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/shivam7374/All-In-ONE">
+&nbsp;
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/shivam7374/All-In-ONE">
+&nbsp;
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/shivam7374/All-In-ONE">
+&nbsp;
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/shivam7374/All-In-ONE">
+&nbsp;
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/shivam7374/All-In-ONE">
+&nbsp;
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/shivam7374/All-In-ONE">
+&nbsp;
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/shivam7374/All-In-ONE">
 <br>
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+GitHub code size in bytes->
+<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/shivam7374/All-In-ONE">
+<br>
+<br>
+
 Theme 1: You plan to start an essentials delivery system. Develop an
 App or a Website where people can order the listed essential goods &
 delivery partners can deliver the same to the mentioned locations.
