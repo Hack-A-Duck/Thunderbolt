@@ -1,0 +1,133 @@
+/*NAV BAR STYLES */
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: tomato;;
+  
+}
+
+nav ul:nth-of-type(2)
+{
+    flex-grow: 1;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-decoration: none;
+    
+
+}
+nav ul:nth-of-type(2) input
+{
+    width: 35%;
+    
+}
+nav .it
+{
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+}
+nav h2
+{
+    color: snow;
+    letter-spacing: 2px;
+    font-family: 'Grandstander', cursive;
+    font-size: xx-large;
+    margin-top: 10px;
+    display: inline;
+    margin-right: 5px ;
+    
+}
+
+.btstyle
+{
+    background-color: tomato;
+    border: none;
+}
+.btstyle:hover
+{
+    background-color: wheat;
+    color: #000;
+    
+}
+body{
+    background-color:white;
+}
+/*==================================================================================*/
+/* MAIN CONTENT STYLES IMAGE AND DESCRIPTION */
+#main
+{
+    margin-top: 5px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    
+}
+
+img
+{
+    width: 45%;
+    margin-top: 10px;
+    height: 600px;
+    margin-right: 150px;
+}
+#description
+{
+
+    margin-top: 10px;
+
+}
+#description input
+{
+    display: block;
+    margin-bottom: 3px;
+}
+#company_name
+{
+    text-decoration: underline;
+    margin-bottom: 0;
+}
+
+#product_info
+{
+    color: brown;
+    margin-top: 10;
+}
+#product_info h2
+{
+    margin: 20px;
+}
+#product_info h3,p
+{
+    margin: 20px;
+}
+
+#icons i
+{
+    color: gold;
+}
+#service i
+{
+ color: cornflowerblue;
+ border: 1px solid gainsboro;
+ border-radius: 20px;
+ margin-right: 80px;
+ padding: 10px;
+}
+#service p
+{
+    display: inline;
+    color: cornflowerblue;
+    margin-left: 0;
+
+}
+#id .btn
+{
+    width:45%;
+}
+footer a:hover
+{
+    text-decoration: none;
+    color: white;
+}
