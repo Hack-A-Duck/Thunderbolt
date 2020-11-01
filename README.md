@@ -1,13 +1,15 @@
 # Hack-A-Duck
 
 <br>
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/shivam7374/All-In-ONE">
+<p float="left">
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/shivam7374/All-In-ONE"> 
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/shivam7374/All-In-ONE">
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/shivam7374/All-In-ONE">
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/shivam7374/All-In-ONE">
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/shivam7374/All-In-ONE">
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/shivam7374/All-In-ONE">
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/shivam7374/All-In-ONE">
+  </p>
 <br>
 GitHub code size in bytes->
 <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/shivam7374/All-In-ONE">
@@ -32,10 +34,15 @@ _Note: - then only it show product_
 ## Packages Downloaded
 
 redux
+
 react-redux
+
 redux-thunk
+
 redux-logger
+
 prop-types
+
 react-router-dom
 
 <!-- ## Available Scripts
