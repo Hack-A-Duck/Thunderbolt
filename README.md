@@ -1,8 +1,8 @@
 # Hack-A-Duck
 
 <br>
-<img style="display:inline" alt="GitHub contributors" src="https://img.shields.io/github/contributors/shivam7374/All-In-ONE">
-<img style="display:inline" alt="GitHub last commit" src="https://img.shields.io/github/last-commit/shivam7374/All-In-ONE">
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/shivam7374/All-In-ONE">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/shivam7374/All-In-ONE">
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/shivam7374/All-In-ONE">
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/shivam7374/All-In-ONE">
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/shivam7374/All-In-ONE">
