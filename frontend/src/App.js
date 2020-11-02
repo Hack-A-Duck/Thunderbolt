@@ -37,7 +37,7 @@ function App() {
         <header className="row">
           <div>
           <Link className="brand" to="/">
-              ShopitBuddy
+              ShopItBuddy
               </Link>
           </div>
           <div>
@@ -118,7 +118,7 @@ function App() {
           ></AdminRoute>
           <Route path="/" component={HomeScreen} exact></Route>
         </main>
-        <footer className="row center">All right reserved © ShopitBuddy </footer>
+        <footer className="row center">All right reserved © ShopItBuddy </footer>
       </div>
     </BrowserRouter>
   );
