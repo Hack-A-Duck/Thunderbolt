@@ -5,6 +5,7 @@
   "description": "Theme 1: You plan to start an essentials delivery system. Develop an\r App or a Website where people can order the listed essential goods &\r delivery partners can deliver the same to the mentioned locations.",
   "main": "index.js",
   "scripts": {
+    "build":"cd frontend && npm install && npm run build",
     "start": "nodemon --watch backend --exec node --experimental-modules backend/server.js"
   },
   "repository": {
