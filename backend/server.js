@@ -13,7 +13,7 @@ const app = express();
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-mongoose.connect(process.env.MONGODB_URL || 'mongodb://localhost/All-In-ONE', {
+mongoose.connect('mongodb+srv://dbUser:dbUserRandom@cluster0.g8eg5.mongodb.net/<dbname>?retryWrites=true&w=majority' || 'mongodb://localhost/All-In-ONE', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
   useCreateIndex: true,
