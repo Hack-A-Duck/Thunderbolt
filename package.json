@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Akashsingh310/All-In-ONE.git"
+    "url": "git+https://github.com/shivam7374/All-In-ONE.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Akashsingh310/All-In-ONE/issues"
+    "url": "https://github.com/shivam7374/All-In-ONE/issues"
   },
-  "homepage": "https://github.com/Akashsingh310/All-In-ONE#readme",
+  "homepage": "https://github.com/shivam7374/All-In-ONE#readme",
   "dependencies": {
     "bcrypt": "^5.0.0",
     "dotenv": "^8.2.0",
