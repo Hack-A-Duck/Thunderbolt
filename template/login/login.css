@@ -1,0 +1,147 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+::selection {
+  background: #67E878;
+  color: #ffffff;
+  text-shadow: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+section.section {
+	max-width: 1170px;
+	width: 100%;
+	height: 100vh;
+	margin: 0 auto;
+  padding: 0 15px;
+}
+
+.main {
+	height: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.intro-section {
+	flex-basis: 60%;
+	text-align: center;
+}
+
+.intro-heading {
+	margin-top: 50px;
+	margin-bottom: 30px;
+	font-size: 30px;
+	text-transform: uppercase;
+}
+
+.intro-text {
+	margin-bottom: 120px;
+	color: #98979E;
+	font-size: 13px;
+	font-weight: 700;
+	line-height: 1.6;
+}
+
+.sign-section {
+	flex-basis: 30%;
+	color: #98979E;
+	border-radius: 2px;
+	box-shadow: 0px 0px 5px 3px rgba(220,218,228,1);
+}
+
+.sign-block {
+	padding: 10%;
+}
+
+.sign-heading {
+	margin-top: 10px;
+	margin-bottom: 30px;
+	font-size: 25px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+
+.input-block {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.input {
+	width: 100%;
+	height: 50px;
+	padding-left: 50px;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 14px;
+	border-top: transparent;
+	border-right: transparent;
+	border-bottom: 1px solid #98979E;
+	border-left: transparent;
+	outline: none;
+}
+
+.input:focus {
+    border-bottom: 1px solid #55C063;
+}
+
+::placeholder {
+	transition: .3s ease;
+}
+
+.input:focus::placeholder {
+	opacity: .5;
+}
+
+.password-block {
+	display: flex;
+	justify-content: space-between;
+    align-items: center;
+    margin: 50px 0;
+	font-size: 10px;
+	font-weight: 700;
+}
+
+.password-link {
+	color: #98979E;
+}
+
+.password-link:hover {
+	color: #55C063;
+}
+
+.sign-button {
+	background-color: #55C063;
+	width: 100%;
+	height: 50px;
+	display: block;
+	margin: 0 auto;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 15px;
+	font-weight: 900;
+	color: #fff;
+	text-align: center;
+	text-transform: uppercase;
+	border: none;
+	border-radius: 10px;
+	box-shadow: 0px 0px 5px 1px rgba(85,192,99,1);
+	outline: none;
+	cursor: pointer;
+	transition: .3s ease;
+}
+
+.sign-button:hover {
+	background-color: #67E878;
+	box-shadow: 0px 0px 5px 1px rgba(103,232,120,1);
+}
