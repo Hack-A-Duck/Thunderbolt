@@ -18,15 +18,28 @@ GitHub code size in bytes->
 
 <h1>WEBSITE LINK</h1>
 
-
 https://shopitbuddy.herokuapp.com/
+
 
 <h2>Features</h2>
 <h4>run</h4>
 
+
 Theme 1: You plan to start an essentials delivery system. Develop an
 App or a Website where people can order the listed essential goods &
 delivery partners can deliver the same to the mentioned locations.
+
+# Team Name - Thunderbolt
+
+## Team Members:-
+
+### Shivam Singla
+
+### Akash Singh
+
+### Vihaan Misra
+
+### Bhavit Singla
 
 <!-- <strong>For Database</strong>
 `install MongoDB compass and connect it `
