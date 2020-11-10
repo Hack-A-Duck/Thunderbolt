@@ -19,13 +19,13 @@ GitHub code size in bytes->
 https://shopitbuddy.herokuapp.com/
 
 <h2>Features</h2>
-<h4>1) User-friendly and serviceable UI for the Frontend.</h4>
+<h4>1) User-friendly and serviceable frontend UI</h4>
 <h4>1) Payment integration using PayPal.</h4>
 <h4>2) Mongo DB as database for storing User and product details.</h4>
 <h4>3) Seperate panel for admins and users.</h4>
 <h4>4) User can add the products to the cart and buy.</h4>
 <h4>5) Admins can trace all the orders and the products available on the site.</h4>
-<h4>6) Admin can also remove and add products to the site.</h4>
+<h4>6) Admins can also remove and add products to the site.</h4>
 <br>
 
 Theme 1: You plan to start an essentials delivery system. Develop an
