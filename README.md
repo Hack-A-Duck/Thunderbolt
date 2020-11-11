@@ -6,9 +6,7 @@
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/shivam7374/All-In-ONE">
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/shivam7374/All-In-ONE">
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/shivam7374/All-In-ONE">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/shivam7374/All-In-ONE">
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/shivam7374/All-In-ONE">
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/shivam7374/All-In-ONE">
+
   </p>
 <br>
 GitHub code size in bytes->
@@ -21,13 +19,13 @@ GitHub code size in bytes->
 https://shopitbuddy.herokuapp.com/
 
 <h2>Features</h2>
-<h4>1) Awesome UI for the Frontend.</h4>
-<h4>1) Payment Integeration using PayPal.</h4>
-<h4>2) Mongo DB as Database for storing User and Product Details.</h4>
-<h4>3) Seperate Panle for Admin and User.</h4>
-<h4>4) User can Add the Products to Cart and Buy.</h4>
-<h4>5) Admin can trace all the Orders and The Products Available on the site.</h4>
-<h4>6) Admin can also remove and products to site.</h4>
+<h4>1) User-friendly and serviceable frontend UI</h4>
+<h4>1) Payment integration using PayPal.</h4>
+<h4>2) Mongo DB as database for storing User and product details.</h4>
+<h4>3) Seperate panel for admins and users.</h4>
+<h4>4) User can add the products to the cart and buy.</h4>
+<h4>5) Admins can trace all the orders and the products available on the site.</h4>
+<h4>6) Admins can also remove and add products to the site.</h4>
 <br>
 
 Theme 1: You plan to start an essentials delivery system. Develop an
